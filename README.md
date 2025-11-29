@@ -99,3 +99,37 @@ VAR PrevRevenue =
     CALCULATE([Total Revenue], public_vw_sales.year_ = PrevYear)
 RETURN
 DIVIDE(CurrRevenue - PrevRevenue, PrevRevenue)
+
+---
+
+## 📊 Dashboard Screenshots
+
+Below are the key pages from the Power BI dashboard included in this project.
+
+### **1️⃣ Executive Summary**
+High-level KPIs and overview of total revenue, customer trends, and overall business performance.
+
+![Executive Summary](./Screenshots/Page1_ExecutiveSummary.png)
+
+---
+
+### **2️⃣ Sales Trends**
+Monthly and yearly revenue trends, moving averages, YoY performance, and category-level filtering.
+
+![Sales Trends](./Screenshots/Page2_SalesTrends.png)
+
+---
+
+### **3️⃣ Product Insights**
+Top 10 products by revenue and gross profit, category/subcategory filtering, and product-level details.
+
+![Product Insights](./Screenshots/Page3_ProductInsights.png)
+
+---
+
+### **4️⃣ Returns Analysis**
+Return rate by category, product-level return behavior, and profitability vs return rate analysis.
+
+![Returns Analysis](./Screenshots/Page4_ReturnsAnalysis.png)
+
+---
