@@ -164,6 +164,67 @@ DIVIDE(CurrRevenue - PrevRevenue, PrevRevenue)
 
 ---
 
+## 🚀 How to Run This Project
+
+You can either just explore the Power BI file, or fully recreate the backend in PostgreSQL.
+
+### ✅ Option 1 – Open the Power BI report only
+
+1. Download `Retail-Sales-Analytics-Dashboard.pbix` from this repository.
+2. Open it in **Power BI Desktop**.
+3. If the data connection fails:
+   - You can view the existing visuals as-is, or  
+   - Re-point the data source to your own PostgreSQL / CSV files.
+
+---
+
+### ✅ Option 2 – Rebuild the full SQL + Power BI pipeline
+
+1. **Create a PostgreSQL database** (for example):
+
+   ```sql
+   CREATE DATABASE retail_sales;
+   ```
+
+2. **Run the schema script** to create all tables:
+
+   ```sql
+   schema.sql
+   ```
+
+3. **Load your data** into:
+
+   - `calendar`
+   - `dim_customer`
+   - `dim_product_categories`
+   - `dim_product_subcategories`
+   - `dim_product`
+   - `dim_territory`
+   - `fact_sales`
+   - `returns_data`
+
+4. **Create the main reporting view**:
+
+   ```sql
+   view_vw_sales.sql
+   ```
+
+   This creates the `vw_sales` view that Power BI uses for most visuals.
+
+5. **Connect Power BI to PostgreSQL**:
+
+   - In Power BI Desktop → **Get data → PostgreSQL database**
+   - Server: your Postgres server (e.g. `localhost`)
+   - Database: `retail_sales`
+   - Select:
+     - `vw_sales`
+     - `returns_data`
+   - Load the data and refresh the report.
+
+Now you have the same data model and dashboards running end-to-end.
+
+---
+
 ## 📸 Dashboard Screenshots  
 Here are the key pages from the Power BI dashboard included in this project.
 
