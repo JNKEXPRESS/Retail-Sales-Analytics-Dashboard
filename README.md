@@ -14,6 +14,37 @@ The goal was to build a complete, end-to-end analytics workflow including:
 
 ---
 
+## 📌 Business Questions Answered
+
+This project was designed to answer key business questions for a retail company.
+
+### **1. Sales Performance**
+- What is the total revenue for each year?
+- Which categories contribute the most to sales?
+- What are the sales trends over time (monthly, quarterly, yearly)?
+- Which products generate the highest revenue and profit?
+
+### **2. Customer Insights**
+- How do different customer segments (gender, income, etc.) contribute to revenue?
+- Which customer groups purchase the highest-margin products?
+
+### **3. Product Performance**
+- Which products have the highest gross profit?
+- What are the top-performing products by revenue?
+- Which categories and subcategories consistently perform well?
+
+### **4. Returns Analysis**
+- What is the return rate (%) by product category?
+- Which products have high return rates and low profitability?
+- Are certain territories linked to higher return volume?
+
+### **5. Time Intelligence Analysis**
+- How does monthly revenue change over time?
+- What is the 3-month moving average trend?
+- What is the year-over-year (YoY) revenue growth?
+
+---
+
 ## 🛠 Tools & Technologies  
 - **SQL (PostgreSQL)** – for data cleaning, joining, calculations  
 - **Power BI** – for data modeling, DAX measures, visualization  
