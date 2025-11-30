@@ -260,6 +260,36 @@ Return rate performance and profitability vs return rate.
 
 ---
 
+## 📈 Key Insights & Findings
+
+A summary of the most important insights discovered in the analysis.
+
+### 🔹 1. Sales Performance
+- Revenue consistently increased year-over-year, with the strongest growth in 2021.
+- The 3-month moving average shows stable seasonal patterns.
+- Bikes were the highest revenue-generating category across all years.
+
+### 🔹 2. Product Insights
+- A small group of top products contributed the majority of revenue.
+- Products with higher profit margins were primarily in the Accessories and Components categories.
+- The Top 10% of customers generated a disproportionately large share of revenue.
+
+### 🔹 3. Customer Insights
+- High-income customers showed the largest purchase volume.
+- Male and female customers had similar buying patterns, but male customers bought slightly higher-priced items.
+
+### 🔹 4. Returns Analysis
+- Overall return rate was low (0–3% for most categories).
+- A few specific products had unusually high return rates and may require quality review.
+- Some territories showed higher returns, indicating potential fulfillment or shipping issues.
+
+### 🔹 5. Business Opportunities
+- Focusing marketing efforts on top revenue-generating customer segments can increase profitability.
+- Improving quality control on high-return products could reduce lost revenue.
+- Accessories and Components categories have high margins and should be promoted more.
+
+---
+
 ## 📬 Contact
 
 **Author:** Shohag  
