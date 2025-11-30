@@ -257,3 +257,13 @@ Return rate performance and profitability vs return rate.
 ![Returns Analysis](Screenshots/Page4_ReturnsAnalysis.png)
 
 ---
+
+## 📬 Contact
+
+**Author:** Shohag  
+
+If you’d like to discuss this project, collaborate, or talk about data analyst roles:
+
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/dataanalystshohag/)
+- 🧑‍💻 GitHub: [Shohag-DataAnalyst](https://github.com/Shohag-DataAnalyst)
+
