@@ -296,6 +296,6 @@ A summary of the most important insights discovered in the analysis.
 
 If you’d like to discuss this project, collaborate, or talk about data analyst roles:
 
-- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/dataanalystshohag/)
+- 💼 LinkedIn: [NURA ALAM SHOHAG](https://www.linkedin.com/in/dataanalystshohag/)
 - 🧑‍💻 GitHub: [Shohag-DataAnalyst](https://github.com/Shohag-DataAnalyst)
 
